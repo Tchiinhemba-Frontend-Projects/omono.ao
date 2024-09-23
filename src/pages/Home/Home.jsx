@@ -39,7 +39,7 @@ export function Home() {
               </div>
 
               <h1 className={styles["home__title"]}>
-                Melitos
+                Omona
               </h1>
               <span className={styles["home__profession"]}>Menu Digital</span>
             </div>
